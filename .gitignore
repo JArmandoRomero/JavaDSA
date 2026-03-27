@@ -1,0 +1,12 @@
+# Compiled Files
+out/
+*.class
+
+#VS Code 
+.vscode/
+
+# Java Docs
+docs/
+
+
+
